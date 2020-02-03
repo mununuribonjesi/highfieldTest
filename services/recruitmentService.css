@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace highfield.services 
+{
+    public class recruitmentService
+    {
+        public async Task<userEntity> getUsers()
+            {
+
+
+            }
+
+    }
+
+}
+
